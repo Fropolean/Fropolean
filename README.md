@@ -11,7 +11,7 @@ _Runs the webpage for Marika Allely_
 ## Setup/Installation Requirements
 
 * `git clone https://github.com/MBAllely/MBAllely.git`
-* _Open inex.html file in your web browser_
+* _Open index.html file in your web browser_
 
 
 ## Known Bugs
